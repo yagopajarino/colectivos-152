@@ -21,3 +21,7 @@ Lenguaje: python
 Análisis: jupyter notebook con las siguientes librerías y módulos nativos: requests, os, dotenv, pandas, numpy, datetime, time, matplotlib, sklearn
 
 Extracción de datos: [api transporte](https://buenosaires.gob.ar/desarrollourbano/transporte/apitransporte) del GCBA
+
+## Notebook
+
+[ver en nbviewer.org](https://nbviewer.org/github/yagopajarino/colectivos-152/blob/main/Colectivos.ipynb)
